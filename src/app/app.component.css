@@ -1,0 +1,28 @@
+h1{
+    color:red;
+}
+.one{
+    color:red;
+}
+.two{
+    color:green;
+}
+.three{
+    font-size: xx-large;
+}
+.four{
+    font-size: 50px;
+}
+input.ng-invalid.ng-touched{
+    border-color: red;
+   
+}
+.example-form {
+    min-width: 150px;
+    max-width: 500px;
+    width: 80%;
+  }
+  
+  .example-full-width {
+    width: 80%;
+  }
